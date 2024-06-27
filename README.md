@@ -11,14 +11,11 @@
 </p>
 
 
-# Projects
-* **Coming Sooon ....**
-  * Coming Sooon ....
-## Bots
+# 📚 Projects
 * **Coming Sooon ....**
   * Coming Sooon ....
 
-## Stats
+## 📈 Stats
 
 <br>
 <p align="center">
