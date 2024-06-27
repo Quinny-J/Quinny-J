@@ -13,7 +13,7 @@
 
 # 📚 Projects
 * **[CodeNation](https://github.com/Quinny-J/codenation)**
-  * Stuff from codenations great course.
+  * Stuff from CodeNations's great course.
 
 ## 📈 Stats
 
