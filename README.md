@@ -14,7 +14,9 @@
 # 📚 Projects
 * **[steamPy](https://github.com/Quinny-J/steamPy)**
   * Python script to grab steam profile info.
-
+* **[steamyFlask](https://github.com/Quinny-J/steamyFlask)**
+  * Python script to grab steam profile info and display in browser.
+ 
 ## 📈 Stats
 
 <br>
