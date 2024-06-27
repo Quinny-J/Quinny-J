@@ -12,8 +12,8 @@
 
 
 # 📚 Projects
-* **Coming Sooon ....**
-  * Coming Sooon ....
+* **[CodeNation](https://github.com/Quinny-J/codenation)**
+  * Stuff from codenations great course.
 
 ## 📈 Stats
 
