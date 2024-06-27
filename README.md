@@ -12,8 +12,8 @@
 
 
 # 📚 Projects
-* **[CodeNation](https://github.com/Quinny-J/codenation)**
-  * Stuff from CodeNations's great course.
+* **[steamPy](https://github.com/Quinny-J/steamPy)**
+  * Python script to grab steam profile info.
 
 ## 📈 Stats
 
