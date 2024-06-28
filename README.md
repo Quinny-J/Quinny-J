@@ -16,7 +16,10 @@
   * Python script to grab steam profile info.
 * **[steamyFlask](https://github.com/Quinny-J/steamyFlask)**
   * Python script to grab steam profile info and display in browser.
- 
+* **[CodeNation](https://github.com/Quinny-J/codenation)**
+  * Somethings from the current course i am on
+  * including extra stuff added into the code.
+
 ## 📈 Stats
 
 <br>
