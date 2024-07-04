@@ -20,6 +20,8 @@
   * Python script to grab steam profile info and display in browser.
 * **[Commander](https://github.com/Quinny-J/Commander)**
   * Python script to execute commands on the hosted system from a browser using flask.
+* **[sPy](https://github.com/Quinny-J/sPy)**
+  * Python powered website using flask to display the port status's from a server address
 * **[telnet.live](https://github.com/Quinny-J/telnet.live)**
   * PRIVATE ! Public source release soon  
   * Python powered website using flask to display html and handle routing hosted in a RPI 4
