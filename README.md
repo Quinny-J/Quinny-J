@@ -24,7 +24,7 @@
   * Python powered website using flask to display the port status's from a server address
 * **[telnet.live](https://github.com/Quinny-J/telnet.live)**
   * PRIVATE ! Public source release soon  
-  * Python powered website using flask to display html and handle routing hosted in a RPI 4
+  * Python powered website using flask to display html and handle routing hosted on a RPI 4
 * **[CodeNation](https://github.com/Quinny-J/codenation)**
   * Somethings from the current course i am on
   * including extra stuff added into the code.
