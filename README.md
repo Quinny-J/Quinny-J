@@ -14,6 +14,8 @@
 
 
 # 📚 Projects
+* **[qAPI](https://github.com/Quinny-J/qAPI)**
+  * Pretty basic python api with GEOIP/NSLOOKUP endpoints.
 * **[steamPy](https://github.com/Quinny-J/steamPy)**
   * Python script to grab steam profile info.
 * **[steamyFlask](https://github.com/Quinny-J/steamyFlask)**
