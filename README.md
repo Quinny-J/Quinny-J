@@ -14,7 +14,7 @@
 
 
 # 📚 Projects
-* **[morsePyCN](https://github.com/Quinny-J/morsePyCN)
+* **[morsePyCN](https://github.com/Quinny-J/morsePyCN)**
   * Python script to allows user to encode & decode Morse code Via a webpage powered by flask
 * **[qAPI](https://github.com/Quinny-J/qAPI)**
   * Pretty basic python api with GEOIP/NSLOOKUP endpoints.
