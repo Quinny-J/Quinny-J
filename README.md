@@ -15,7 +15,7 @@
 
 # 📚 Projects
 * **[pVulnScanner](https://github.com/Quinny-J/pVulnScanner)**
-  * A web-based vulnerability scanner that can for website vulnerability's
+  * A web-based vulnerability scanner that can scan for website vulnerability's
 * **[hTasker](https://github.com/Quinny-J/hTasker)**
   * hTasker can run, schedule or execute python scripts via webui 
 * **[morsePyCN](https://github.com/Quinny-J/morsePyCN)**
