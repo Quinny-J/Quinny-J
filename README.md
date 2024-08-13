@@ -16,6 +16,8 @@
 # 📚 Projects
 * **[pVulnScanner](https://github.com/Quinny-J/pVulnScanner)**
   * A web-based vulnerability scanner that can scan for website vulnerability's
+* **[hTasker-V2](https://github.com/Quinny-J/hTasker-V2)**
+  * Allow users to run python, node and go scripts via webpage in a virtual environment
 * **[hTasker](https://github.com/Quinny-J/hTasker)**
   * hTasker can run, schedule or execute python scripts via webui 
 * **[morsePyCN](https://github.com/Quinny-J/morsePyCN)**
