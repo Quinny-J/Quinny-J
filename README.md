@@ -2,6 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning+Python;Self+Taught+Developer;Cyber+Security+Researcher;&font=Fira%20Code&center=true&width=380&height=50">
   <br>
   <a href="http://hijack.network/">Hijack.Network (NO SSL ATM)</a>
+   <br>
   <a href="https://telnet.live/">Telnet.Live</a>
 </p>
 
