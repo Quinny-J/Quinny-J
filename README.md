@@ -4,6 +4,8 @@
   <a href="https://hijack.network/">Hijack.Network</a>
    <br>
   <a href="https://telnet.live/">Telnet.Live</a>
+     <br>
+  <a href="https://qCut.us/">qCut.us (Free Url Shortner)</a>
 </p>
 
 <p align="center">
